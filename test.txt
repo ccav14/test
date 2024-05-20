@@ -929,3 +929,10 @@ CCTV17,http://221.234.25.122:9999/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&
 三沙卫视,http://home.huaz.site:4000/udp/239.21.2.9:5002
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+
+单独测试,#genre#
+CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
+CCTV2,http://live.nctv.top/8/bestv.php?id=cctv2
+CCTV3,http://live.nctv.top/8/bestv.php?id=cctv3
+CCTV4,http://live.nctv.top/8/bestv.php?id=cctv4
+CCTV5,http://live.nctv.top/8/bestv.php?id=cctv5
