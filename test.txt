@@ -937,7 +937,7 @@ CCTV3,http://live.nctv.top/8/bestv.php?id=cctv3
 CCTV4,http://live.nctv.top/8/bestv.php?id=cctv4
 CCTV5,http://live.nctv.top/8/bestv.php?id=cctv5
 CCTV6,http://live.nctv.top/8/bestv.php?id=cctv6
-
+CCTV-1,http://183.6.110.241:9901/hls/1001/index.m3u8
 
 
 某广州电信,#genre#
