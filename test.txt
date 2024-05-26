@@ -1,5 +1,6 @@
 单独测试,#genre#
-
+CCTV2,http://alvin.ergotron.net:8000/udp/239.77.1.158:5146
+CCTV2,http://dms.yryyj.site:8188/udp/239.76.246.152:1234
 
 央视频道,#genre#
 CCTV1,http://live.nctv.top/8/bestv.php?id=cctv1
