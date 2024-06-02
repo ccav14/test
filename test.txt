@@ -7,6 +7,10 @@ CCTV6,http://106.115.25.148:9999/tsfile/live/0006_1.m3u8
 就一句话,#genre#
 测试,
 
+就一句话2,#genre#
+测试2,www.baidu.com
+
+
 单独测试揭阳电信,#genre#
 黑龙江卫视,http://113.64.145.224:8081/hls/50/index.m3u8
 山东卫视,http://113.64.145.224:8081/hls/75/index.m3u8
