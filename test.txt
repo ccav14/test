@@ -1,13 +1,7 @@
 单独测试,#genre#
 CCTV16,http://117.175.185.226:4088/rtp/239.11.0.67:5140
 广东卫视,http://117.175.185.226:4088/rtp/239.11.0.115:5140
-CCTV3,http://106.115.25.148:9999/tsfile/live/1002_1.m3u8
-CCTV6,http://106.115.25.148:9999/tsfile/live/0006_1.m3u8
-潍坊电信,http://182.46.8.161:8018/hls/1/index.m3u8
-扬州电信,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
-郑州联通,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
-otioi,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv1
-温州联通,http://123.154.30.252:9901/tsfile/live/0001_1.m3u8
+
 
 
 单独测试揭阳电信,#genre#
@@ -1020,7 +1014,13 @@ CCTV8,http://218.20.55.28:8888/rtp/239.77.0.181:5146
 CCTV9,http://218.20.55.28:8888/rtp/239.77.1.168:5146
 CCTV10,http://218.20.55.28:8888/rtp/239.77.1.169:5146
 CCTV12,http://218.20.55.28:8888/rtp/239.77.1.170:5146
-
+CCTV3,http://106.115.25.148:9999/tsfile/live/1002_1.m3u8
+CCTV6,http://106.115.25.148:9999/tsfile/live/0006_1.m3u8
+潍坊电信,http://182.46.8.161:8018/hls/1/index.m3u8
+扬州电信,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
+郑州联通,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
+otioi,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv1
+温州联通,http://123.154.30.252:9901/tsfile/live/0001_1.m3u8
 
 
 
