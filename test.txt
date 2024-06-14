@@ -310,6 +310,30 @@ CHC电影,http://112.235.200.247:9901/tsfile/live/1012_1.m3u8?key=txiptv&playliv
 风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 
+1080i央视频道,#genre#
+CCTV1,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://59.62.8.250:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://111.225.113.109:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://58.48.37.158:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://58.48.37.158:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://58.48.37.158:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://58.48.37.158:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+1080i卫视频道,#genre#
+吉林卫视,http://58.48.37.158:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://116.21.123.117:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://58.48.37.158:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://116.21.123.117:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.21.123.117:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://175.10.228.46:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+1080i其他频道,#genre#
+CETV4,http://111.225.113.109:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://175.10.228.46:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南金鹰卡通,http://175.10.228.46:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 央视频道/自动更新,#genre#
 CCTV1,http://171.108.239.73:8181/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
