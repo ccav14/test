@@ -726,7 +726,12 @@ HZTV2,http://113.93.52.68:5555/rtp/239.77.1.233:5146
 黑龙江卫视,http://113.93.52.68:8888/rtp/239.77.1.179:5146
 黑龙江卫视,http://113.93.52.68:8888/rtp/239.77.1.6:5146
 
-
+某广州电信,#genre#
+广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://116.21.123.117:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://116.21.123.117:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.21.123.117:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8
 
 已剔除的,#genre#
 CCTV6,http://113.93.52.68:8888/rtp/239.77.0.178:5146
