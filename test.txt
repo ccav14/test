@@ -352,45 +352,6 @@ CCTV5,http://113.57.103.216:9000/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&a
 广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-
-揭阳电信,#genre#
-18,http://113.64.145.224:8081/hls/18/index.m3u8
-19,http://113.64.145.224:8081/hls/19/index.m3u8
-33,http://113.64.145.224:8081/hls/33/index.m3u8
-36,http://113.64.145.224:8081/hls/36/index.m3u8
-37,http://113.64.145.224:8081/hls/37/index.m3u8
-38,http://113.64.145.224:8081/hls/38/index.m3u8
-39,http://113.64.145.224:8081/hls/39/index.m3u8
-45,http://113.64.145.224:8081/hls/45/index.m3u8
-天津卫视,http://113.64.145.224:8081/hls/48/index.m3u8
-黑龙江卫视,http://113.64.145.224:8081/hls/50/index.m3u8
-广西卫视,http://113.64.145.224:8081/hls/60/index.m3u8
-61,http://113.64.145.224:8081/hls/61/index.m3u8
-62,http://113.64.145.224:8081/hls/62/index.m3u8
-63,http://113.64.145.224:8081/hls/63/index.m3u8
-66,http://113.64.145.224:8081/hls/66/index.m3u8
-68,http://113.64.145.224:8081/hls/68/index.m3u8
-69,http://113.64.145.224:8081/hls/69/index.m3u8
-70,http://113.64.145.224:8081/hls/70/index.m3u8
-71,http://113.64.145.224:8081/hls/71/index.m3u8
-72,http://113.64.145.224:8081/hls/72/index.m3u8
-73,http://113.64.145.224:8081/hls/73/index.m3u8
-山东卫视,http://113.64.145.224:8081/hls/75/index.m3u8
-76,http://113.64.145.224:8081/hls/76/index.m3u8
-82,http://113.64.145.224:8081/hls/82/index.m3u8
-88,http://113.64.145.224:8081/hls/88/index.m3u8
-96,http://113.64.145.224:8081/hls/96/index.m3u8
-104,http://113.64.145.224:8081/hls/104/index.m3u8
-128,http://113.64.145.224:8081/hls/128/index.m3u8
-135,http://113.64.145.224:8081/hls/135/index.m3u8
-136,http://113.64.145.224:8081/hls/136/index.m3u8
-137,http://113.64.145.224:8081/hls/137/index.m3u8
-140,http://113.64.145.224:8081/hls/140/index.m3u8
-142,http://113.64.145.224:8081/hls/142/index.m3u8
-144,http://113.64.145.224:8081/hls/144/index.m3u8
-145,http://113.64.145.224:8081/hls/145/index.m3u8
-154,http://113.64.145.224:8081/hls/154/index.m3u8
-
 单独测试成都移动,#genre#
 CCTV1,http://117.175.185.226:4088/rtp/239.11.0.65:5140
 CCTV2,http://117.175.185.226:4088/rtp/239.11.0.108:5140
@@ -433,7 +394,7 @@ CCTV5+,http://117.175.185.226:4088/rtp/239.11.0.241:5140
 天津卫视,http://117.175.185.226:4088/rtp/239.11.0.123:5140
 
 
-萍乡电信,#genre#
+单独测试萍乡电信,#genre#
 
 CCTV1,http://59.62.8.250:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
