@@ -1,6 +1,2 @@
 测,#genre#
 CCTV1,http://117.175.185.226:4088/rtp/239.11.0.65:5140
-CCTV2,
-CCTV3,
-CCTV4,
-CCTV5,
