@@ -748,7 +748,7 @@ CCTV13,https://event.pull.hebtv.com/jishi/cp4.m3u8
 CCTV14,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel12/2300.m3u8
 CCTV15,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-卫视频道,#genre#
+G17卫视频道,#genre#
 湖南卫视,http://116.21.123.117:4433/tsfile/live/0128_1.m3u8
 湖南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
 湖南卫视,http://218.3.138.25:1111/tsfile/live/1018_1.m3u8
@@ -1009,7 +1009,7 @@ CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227961/index.m3u8
 延边卫视,http://angtv.cc/jd/gdlz.php?id=ybws
-广东频道,#genre#
+G17广东频道,#genre#
 广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8
 广东卫视,http://fangke.blueswords.com:9901/tsfile/live/0142_1.m3u8
 广东卫视,http://5149c9.netsite.cc/proxy/1094148202/1094148202.m3u8
@@ -1057,7 +1057,7 @@ CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=f0caf677b15fe7b314aa18a8e00702d3&txTime=19019f0d637
 广州竞赛,https://histar.zapi.us.kg/?id=gzjs
 广州影视,https://histar.zapi.us.kg/?id=gzys
-港澳频道,#genre#
+G17港澳频道,#genre#
 凤凰中文,http://117.27.190.42:9998/tsfile/live/23280_1.m3u8
 凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
