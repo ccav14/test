@@ -23,7 +23,7 @@ CCTV5,http://171.118.223.183:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&
 CCTV5,http://124.165.251.82:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://111.225.113.109:808/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://124.165.251.82:9999/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+,http://123.138.216.44:9902/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://123.138.216.44:9902/tsfile/live/_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://171.117.29.144:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://171.118.223.183:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://124.165.251.82:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -315,37 +315,16 @@ itv广东频道,#genre#
 
 
 
-itv央视频道,#genre#
-
-itv卫视频道,#genre#
 
 
-itv其他频道,#genre#
-
-
-1080i央视频道,#genre#
-CCTV1,http://58.48.37.158:1111/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://59.62.8.250:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://111.225.113.109:808/home/storager/6bbc84c2-18fb-444e-a900-d7ed884a2731/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://59.62.8.250:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://58.48.37.158:1111/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://58.48.37.158:1111/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://58.48.37.158:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://58.48.37.158:1111/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-1080i卫视频道,#genre#
-吉林卫视,http://58.48.37.158:1111/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+1080i可看频道,#genre#
+广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0?$无声
 江苏卫视,http://116.21.123.117:4433/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://58.48.37.158:1111/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+
 浙江卫视,http://116.21.123.117:4433/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://116.21.123.117:4433/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://175.10.228.46:8081/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-1080i其他频道,#genre#
 CETV4,http://111.225.113.109:808/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://175.10.228.46:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.123.117:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南金鹰卡通,http://175.10.228.46:8081/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
@@ -829,7 +808,7 @@ G16卫视频道,#genre#
 大湾区卫视,http://38.64.72.148/hls/modn/list/4011/chunklist0.m3u8
 大湾区卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel58/index.m3u8
 广东卫视,http://116.21.123.117:4433/tsfile/live/0125_1.m3u8
-广东卫视,http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
+广东卫视,http://219.135.208.218:8083/tsfile/live/_1.m3u8
 广东卫视,http://14.29.76.30:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
 浙江卫视,http://219.159.147.195:9901/tsfile/live/1025_1.m3u8
@@ -1025,7 +1004,7 @@ G17卫视频道,#genre#
 广东卫视,http://fangke.blueswords.com:9901/tsfile/live/0142_1.m3u8
 广东卫视,http://5149c9.netsite.cc/proxy/1094148202/1094148202.m3u8
 广东卫视,http://www.8700956.top:18888/udp/239.81.0.36:4056
-广东卫视,http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
+广东卫视,http://219.135.208.218:8083/tsfile/live/_1.m3u8
 广东卫视,http://14.29.76.30:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
@@ -1095,7 +1074,7 @@ G17卫视频道,#genre#
 吉林卫视,http://120.211.119.222:809/hls/65/index.m3u8
 吉林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
 吉林卫视,http://nas.tuyuannet.cn:8800/rtp/239.37.0.101:5540
-吉林卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+吉林卫视,http://live.ybtvyun.com/video/s1-7e5f23de35df/index.m3u8
 吉林卫视,http://59.44.102.18:8888/newlive/live/hls/29/live.m3u8
 吉林卫视,http://175.18.189.238:9902/tsfile/live/0116_1.m3u8
 吉林卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/1300.m3u8
@@ -1199,9 +1178,9 @@ G17卫视频道,#genre#
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s1-7e5f23de35df/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s1-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
 延边卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227961/index.m3u8
 延边卫视,http://angtv.cc/jd/gdlz.php?id=ybws
@@ -1213,7 +1192,7 @@ G17广东频道,#genre#
 广东卫视,http://14.29.76.30:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://59.44.102.18:8888/newlive/live/hls/38/live.m3u8
 广东卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/1300.m3u8
-广东卫视,http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
+广东卫视,http://219.135.208.218:8083/tsfile/live/_1.m3u8
 广东卫视,http://cfss.cc/api/ysp/gdws.m3u8
 广东卫视,http://xxw.me0.cn/api/migu.php?id=28
 广东卫视,https://histar.zapi.us.kg/?id=guangdong
