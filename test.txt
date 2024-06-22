@@ -26,7 +26,7 @@ itv广东频道,#genre#
 
 
 单独测试,#genre#
-
+gdty,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
 
 
