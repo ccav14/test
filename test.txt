@@ -26,7 +26,6 @@ itv广东频道,#genre#
 
 
 单独测试,#genre#
-gdty,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 
 
 
@@ -657,25 +656,22 @@ G17央视频道,#genre#
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8?$初步可以
 
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8?$初步可以
+
 CCTV13,https://event.pull.hebtv.com/jishi/cp4.m3u8?$初步可以
 
 
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?$初步可
-CCTV2,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8?$初步可
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?$初步可
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8?$初步可以
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8?$初步可
+
 olelive,#genre#
-3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-0,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-1,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-4,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-5,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-7,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
-8,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-12,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
-15,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+
+CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.CCTV5+
+CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 
 G17卫视频道,#genre#
 湖南卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227369/index.m3u8?$初步可以
