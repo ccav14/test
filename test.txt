@@ -2,8 +2,8 @@
 
 
 
-itv628,#genre#
-央视频道,#genre#
+
+itv628央视频道,#genre#
 CCTV1,http://123.160.175.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://123.138.216.44:9902/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.235.202.6:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -92,7 +92,7 @@ CCTV17,http://112.235.202.51:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 CCTV17,http://112.235.202.172:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://112.235.202.148:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视频道,#genre#
+itv628卫视频道,#genre#
 三沙卫视,http://117.27.190.42:9998/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://123.138.216.44:9902/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东南卫视,http://58.48.37.158:1111/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -212,7 +212,7 @@ CCTV17,http://112.235.202.148:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1
 黑龙江卫视,http://58.48.37.158:1111/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://117.27.190.42:9998/tsfile/live/23256_1.m3u8?key=txiptv&playlive=1&authid=0
 
-其他频道,#genre#
+itv628其他频道,#genre#
 厦门1,http://117.27.190.42:9998/tsfile/live/23293_1.m3u8?key=txiptv&playlive=1&authid=0
 武汉1新闻综合,http://58.48.37.158:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 厦门2,http://117.27.190.42:9998/tsfile/live/23294_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -305,7 +305,7 @@ CHC电影,http://112.235.200.208:9901/tsfile/live/1012_1.m3u8?key=txiptv&playliv
 钱江,http://123.154.30.68:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 龙岩综合,http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0
 
-广州影视,http://14.121.146.11:554/udp/239.253.43.73:5146
+
 
 
 
@@ -357,7 +357,7 @@ CCTV14	,http://218.71.45.167:9999/rtp/233.50.201.124:5140
 
 
 单独测试,#genre#
-
+广州影视,http://14.121.146.11:554/udp/239.253.43.73:5146
 
 
 单独测试成都移动,#genre#
@@ -696,18 +696,6 @@ HZTV2,http://113.93.52.68:5555/rtp/239.77.1.233:5146
 黑龙江卫视,http://113.93.52.68:8888/rtp/239.77.1.6:5146
 
 
-
-洛杉矶央视频道,#genre#
-
-CCTV-1,http://23.237.196.98:680/live/CCTV1HD/hls.m3u8?$洛杉矶
-CCTV-2,http://23.237.196.98:680/live/CCTV2HD/hls.m3u8
-CCTV-5,http://23.237.196.98:680/live/CCTV5HD/hls.m3u8
-CCTV-5+,http://23.237.196.98:680/live/CCTV5PHD/hls.m3u8
-CCTV-6,http://23.237.196.98:680/live/CCTV6HD/hls.m3u8
-CCTV-8,http://23.237.196.98:680/live/CCTV8HD/hls.m3u8
-CCTV-9,http://23.237.196.98:680/live/CCTV9HD/hls.m3u8
-CCTV-13,http://23.237.196.98:680/live/CCTV13HD/hls.m3u8
-CCTV-16,http://23.237.196.98:680/live/CCTV16HD/hls.m3u8
 
 崇左电信,#genre#
 0,http://219.159.147.195:9901/tsfile/live/1000_1.m3u8
