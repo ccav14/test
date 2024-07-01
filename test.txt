@@ -630,13 +630,14 @@ CCTV14	,http://218.71.45.167:9999/rtp/233.50.201.124:5140
 
 凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
 凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-凤凰卫视,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.0.118:2191
-凤凰卫视,http://103.95.24.37:880/fhws.m3u8
-凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
-凤凰卫视,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰资讯,http://giwon.ddns.net:5555/udp/239.93.1.4:2191
+凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
+凤凰卫视,http://103.95.24.37:880/fhws.m3u8
+凤凰卫视,http://giwon.ddns.net:5555/udp/239.93.0.162:2192
+凤凰卫视,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+
 CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV-1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
