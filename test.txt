@@ -968,6 +968,7 @@ CCTV6,http://106.115.25.148:9999/tsfile/live/0006_1.m3u8
 郑州联通,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
 otioi,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv1
 温州联通,http://123.154.30.252:9901/tsfile/live/0001_1.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880?$奔腾融媒
 
 
 
