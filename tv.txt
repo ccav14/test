@@ -806,9 +806,42 @@ OK键打开列表,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
 
 其他频道,#genre#
 
-金鹰卡通,http://59.62.8.250:9901/tsfile/live/1006_1.m3u8?$萍乡电信
-风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0?$萍乡电信
+ 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe?$jdshipin
+        广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen?$jdshipin
+        广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai?$jdshipin
+        广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi?$jdshipin
+        广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi?$jdshipin
+        广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo?$jdshipin
+        广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
+        广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+        东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh?$jdshipin
+        东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx?$jdshipin
+        佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh?$jdshipin
+        佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys?$jdshipin
+        佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg?$jdshipin
+        佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh?$jdshipin
+        佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd?$jdshipin
+        佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm?$jdshipin
+        佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss?$jdshipin
+        云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
+        云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+        河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+        河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+        东莞新闻综合,http://php.jdshipin.com:8880/PLTV/chudian.php?id=dgxw?$jdshipin
+        东莞生活资讯,http://php.jdshipin.com:8880/PLTV/chudian.php?id=dggg?$jdshipin
+        河源综合,http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyzh?$jdshipin
+        河源公共,http://php.jdshipin.com:8880/PLTV/chudian.php?id=hygg?$jdshipin
 
+
+金鹰卡通,http://59.62.8.250:9901/tsfile/live/1006_1.m3u8?$萍乡电信
+
+
+金鹰卡通,http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?$崇左电信
+
+金鹰卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0?$武汉电信
+
+风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0?$萍乡电信
 CETV4,http://14.121.146.11:554/udp/239.253.43.114:5146?$阳江电信
 CETV4,http://14.121.146.11:554/udp/239.253.43.40:5146?$阳江电信
 CETV4,http://14.121.146.11:554/udp/239.77.1.200:5146?$阳江电信
@@ -910,9 +943,7 @@ CHC电影,http://14.121.146.11:554/udp/239.77.0.27:5146?$阳江电信
 第一剧场,http://14.121.146.11:554/udp/239.253.43.15:5146?$阳江电信
 第一剧场,http://14.121.146.11:554/udp/239.253.43.28:5146?$阳江电信
 
-金鹰卡通,http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?$崇左电信
 
-金鹰卡通,http://58.48.37.158:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0?$武汉电信
 
 广东体育,http://14.212.185.27:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
