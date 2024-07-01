@@ -638,41 +638,7 @@ CCTV14	,http://218.71.45.167:9999/rtp/233.50.201.124:5140
 凤凰卫视,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 
-CCTV-1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV-1综合,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV-2财经,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV-2财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
-CCTV-3综艺,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
-CCTV-3综艺,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV-4中文国际,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-CCTV-5体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-CCTV-5体育,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
-CCTV-5体育,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV-5+体育赛事,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-CCTV-5+体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-CCTV-6电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
-CCTV-6电影,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV-7国防军事,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-CCTV-7国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
-CCTV-8电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-CCTV-8电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-CCTV-9纪录,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-CCTV-9纪录,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-CCTV-9纪录,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-CCTV-10科教,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV-11戏曲,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV-11戏曲,http://1.195.111.251:11190/tsfile/live/0011_1.m3u8
-CCTV-12社会与法,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8?%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E3%80%90%E6%99%B4%E5%9B%AD%E3%80%91%E6%95%B4%E7%90%86%E5%88%86%E4%BA%AB
-CCTV-12社会与法,http://1.195.111.251:11190/tsfile/live/0012_1.m3u8
-CCTV-12社会与法,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV-13新闻,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV-14少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
-CCTV-14少儿,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV-15音乐,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-CCTV-15音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
-CCTV-16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16奥林匹克,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-17农业农村,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+
 
 
 
