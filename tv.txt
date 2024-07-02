@@ -616,9 +616,7 @@ CCTV17,http://117.27.190.42:9998/tsfile/live/23247_1.m3u8?key=txiptv&playlive=1&
 黑龙江卫视,http://61.136.67.238:50085/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-CGTN,http://119.39.97.2:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN纪录,http://113.218.229.25:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-东奥纪实,http://123.138.216.44:9902/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
@@ -850,6 +848,10 @@ OK键打开列表,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
         东莞生活资讯,http://php.jdshipin.com:8880/PLTV/chudian.php?id=dggg?$jdshipin
         河源综合,http://php.jdshipin.com:8880/PLTV/chudian.php?id=hyzh?$jdshipin
         河源公共,http://php.jdshipin.com:8880/PLTV/chudian.php?id=hygg?$jdshipin
+
+CGTN,http://119.39.97.2:9002/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN纪录,http://113.218.229.25:8081/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+东奥纪实,http://123.138.216.44:9902/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 金鹰卡通,http://59.62.8.250:9901/tsfile/live/1006_1.m3u8?$萍乡电信
