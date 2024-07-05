@@ -58,18 +58,6 @@ CCTV17,http://219.159.147.195:9901/tsfile/live/1022_1.m3u8?$崇左电信
 
 
 
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD.live.flv?$olelive
-CCTV2,https://node1.olelive.com:6443/live/CCTV2HD.live.flv?$olelive
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD.live.flv?$olelive
-CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD.live.flv?$olelive
-CCTV6,https://node1.olelive.com:6443/live/CCTV6HD.live.flv?$olelive
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD.live.flv?$olelive
-CCTV9,https://node1.olelive.com:6443/live/CCTV9HD.live.flv?$olelive
-CCTV13,https://node1.olelive.com:6443/live/CCTV13HD.live.flv?$olelive
-CCTV16,https://node1.olelive.com:6443/live/CCTV16HD.live.flv?$olelive
-
-
-
 
 
 
@@ -293,7 +281,7 @@ CCTV17,http://119.134.111.146:8888/rtp/239.77.1.121:5146
 黑龙江卫视,http://59.62.8.250:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0?$萍乡电信
 
 
-东方卫视,https://node1.olelive.com:6443/live/DONGFANGHD.live.flv?$olelive
+
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$新蓝网
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8?$长云网
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8?$黄河云
