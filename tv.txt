@@ -250,11 +250,13 @@ CCTV17,http://183.52.44.18:11/rtp/239.77.1.121:5146
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8?$黄河云
 山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8?$济宁新闻网
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true?$山西网络广播电视台
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x4sh8gV.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$天池云
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws?$jdshipin
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8?$兵团在线test5
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?$兵团在线liveout
 海南卫视,https://live3.hnntv.cn/srs/tv/lywsgq.m3u8?$海南网络广播电视台
+
 
 东方卫视,http://219.159.147.195:9901/tsfile/live/1023_1.m3u8?$崇左电信
 北京卫视,http://219.159.147.195:9901/tsfile/live/1024_1.m3u8?$崇左电信
