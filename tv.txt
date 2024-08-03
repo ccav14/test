@@ -280,21 +280,6 @@ OK键打开列表,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
 
 
 
-金鹰卡通,http://219.159.147.195:9901/tsfile/live/1032_1.m3u8?$崇左电信
-
-
-
-
-
-
-经济科教,http://14.212.185.27:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-都市,http://61.136.67.238:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-
-广东体育,http://14.212.185.27:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-广东新闻,http://14.212.185.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-广东民生,http://14.212.185.27:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-
-
 
 HZTV1,http://113.68.179.36:4022/udp/239.77.1.232:5146
 中国教育1,http://113.68.179.36:4022/udp/239.77.0.200:5146
