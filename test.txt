@@ -1,3 +1,8 @@
+4k,#genre#
+CCTV16,http://116.233.34.99:7777/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+欢笑剧场,http://116.233.34.99:7777/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 itv1008,#genre#
 
 
