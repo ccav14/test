@@ -57,16 +57,11 @@ CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
 
-
-
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?$新蓝网
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8?$长云网
-山东卫视,http://lives.jnnews.tv/video/s10001-SDTV/index.m3u8?$济宁新闻网
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$天池云
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?$兵团在线liveout
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+
 
 
 
@@ -85,10 +80,7 @@ OK键打开列表,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
 
 
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-
-
 
 
 
