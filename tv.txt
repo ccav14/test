@@ -23,26 +23,22 @@ CCTV17,http://117.175.185.226:4088/rtp/239.11.0.107:5140?$模板
 
 
 
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4o
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
-CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
-CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
-CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-
-
-
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4$订阅源-1920x1080
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-1920x1080
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源-1920x1080
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
 
 
 
@@ -58,6 +54,14 @@ CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?$天池云
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?$兵团在线liveout
 
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws$订阅源-1920x1080
+广西卫视,http://115.149.139.141:10001/tsfile/live/1037_1.m3u8?blog.ntnas.top$订阅源-1920x1080
+河南卫视,http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws$订阅源-1920x1080
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$订阅源-1920x1080
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源-1920x1080
+天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top$订阅源-1920x1080
 
 
 
@@ -75,7 +79,8 @@ OK键打开列表,http://123.6.102.32:11789/850.php?id=cctv1hd.m3u8
 
 
 
-CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源-1280x720
+
 番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 
 
