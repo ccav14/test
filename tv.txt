@@ -39,9 +39,6 @@ CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
-CCTV16,http://58.221.214.82:9901/tsfile/live/0002_2.m3u8
-CCTV16,http://202.100.46.58:9901/tsfile/live/1016_1.m3u8
-CCTV16,http://58.17.48.228:808/hls/25/index.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
 
 
