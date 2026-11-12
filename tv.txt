@@ -1,3 +1,13 @@
+测试,#genre#
+G导视高清 L3,http://gslb.gcable.cn:8070/live/1439_800.m3u8
+G导视高清 L2,http://gslb.gcable.cn:8070/live/1439_1500.m3u8
+CCTV-1综合（高清） L3,http://gslb.gcable.cn:8070/live/1402_800.m3u8
+CCTV-1综合（高清） L2,http://gslb.gcable.cn:8070/live/1001_1500.m3u8
+CCTV-1综合（高清） L1,http://gslb.gcable.cn:8070/live/1402_7500.m3u8
+CCTV-2财经（高清） L3,http://gslb.gcable.cn:8070/live/1602_800.m3u8
+CCTV-2财经（高清） L1,http://gslb.gcable.cn:8070/live/1002_1500.m3u8
+
+
 
 央视频道,#genre#
 
